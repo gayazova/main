@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\submodules\submodule1\StringExtensions\StringExtensions\StringExtensions.csproj" />
+  </ItemGroup>
+
 </Project>
